@@ -1,0 +1,5 @@
+body{font-family:-apple-system,"Helvetica Neue",sans-serif;max-width:640px;margin:0 auto;
+padding:48px 24px;line-height:1.65;color:#1c1c26;background:#fff}
+h1{letter-spacing:-.02em} a{color:#5856d6} .muted{color:#5e5e6e}
+nav{margin-bottom:32px;font-size:14px} nav a{margin-right:14px;text-decoration:none}
+@media(prefers-color-scheme:dark){body{background:#101016;color:#ecedf4}.muted{color:#9a9aad}a{color:#7a78ff}}
